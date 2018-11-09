@@ -12,7 +12,7 @@ COLLECTION_NAME = 'project'
 
 @app.route("/")
 def index():
-    return render_template("index.html")
+    return render_template("../venv/index.html")
 
 
 @app.route("/data")
