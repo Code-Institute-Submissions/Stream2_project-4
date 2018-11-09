@@ -3,6 +3,7 @@ from flask import render_template
 from pymongo import MongoClient
 import json
 
+
 app = Flask(__name__)
 
 MONGODB_HOST = 'localhost'
@@ -12,7 +13,7 @@ COLLECTION_NAME = 'project'
 
 @app.route("/")
 def index():
-    return render_template("../venv/index.html")
+    return render_template("index.html")
 
 
 @app.route("/data")
