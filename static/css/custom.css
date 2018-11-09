@@ -1,0 +1,28 @@
+.dc-chart .pie-slice {
+    fill:black;
+}
+
+.dc-chart g.row text {
+    fill:black;
+
+}
+
+.navbar {
+    background-image: linear-gradient(to right, #ff0000,#ffff00,#4cae4c,dodgerblue);
+}
+
+button.intro_button {
+    display: inline-block;
+    float: left;
+    margin: 12px;
+}
+
+#num-display {
+    font-size: 40px;
+}
+
+span.introjs-helperNumberLayer {
+    width:30px;
+    height:30px;
+}
+

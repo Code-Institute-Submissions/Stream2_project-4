@@ -2,18 +2,91 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="386217c3-d682-4432-abca-93e0e0343c30" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/custom.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/graph.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/lib/css/dc.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/lib/css/introjs.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/lib/css/keen-dashboards.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/lib/js/crossfilter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/lib/js/d3.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/lib/js/dc.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/lib/js/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/lib/js/keen.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/lib/js/queue.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Procfile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/runtime.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/dashboard.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/requirements.txt" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Stream2_project.py" afterPath="$PROJECT_DIR$/Stream2_project.py" />
+      <change beforePath="$PROJECT_DIR$/athlete_events.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/css/custom.css" afterPath="$PROJECT_DIR$/static/css/custom.css" />
+      <change beforePath="$PROJECT_DIR$/static/js/graph.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/lib/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/lib/css/bootstrap.min.css" />
+      <change beforePath="$PROJECT_DIR$/static/lib/css/dc.css" afterPath="$PROJECT_DIR$/static/lib/css/dc.css" />
+      <change beforePath="$PROJECT_DIR$/static/lib/css/introjs.css" afterPath="$PROJECT_DIR$/static/lib/css/introjs.css" />
+      <change beforePath="$PROJECT_DIR$/static/lib/css/keen-dashboards.css" afterPath="$PROJECT_DIR$/static/lib/css/keen-dashboards.css" />
+      <change beforePath="$PROJECT_DIR$/static/lib/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/lib/js/bootstrap.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/lib/js/jquery.min.js" afterPath="$PROJECT_DIR$/static/lib/js/jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/lib/js/keen.min.js" afterPath="$PROJECT_DIR$/static/lib/js/keen.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/lib/js/queue.js" afterPath="$PROJECT_DIR$/static/lib/js/queue.js" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/INSTALLER" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/METADATA" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/RECORD" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/WHEEL" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/entry_points.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/top_level.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/basecommand.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/baseparser.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/build_env.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/build_env.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/cache.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/cache.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/cmdoptions.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/check.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/check.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/completion.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/completion.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/configuration.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/configuration.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/download.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/download.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/freeze.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/freeze.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/hash.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/hash.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/help.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/help.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/install.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/install.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/list.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/list.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/search.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/search.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/show.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/show.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/uninstall.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/uninstall.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/wheel.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/wheel.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/compat.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/configuration.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/configuration.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/exceptions.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/exceptions.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/index.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/index.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/locations.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/locations.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/models/index.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/models/index.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/operations/freeze.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/operations/freeze.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/operations/prepare.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/operations/prepare.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/pep425tags.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/pep425tags.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/req_file.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/req_file.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/req_install.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/req_install.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/req_set.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/req_set.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/req_uninstall.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/req_uninstall.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/resolve.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/resolve.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/status_codes.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/appdirs.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/appdirs.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/filesystem.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/filesystem.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/logging.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/logging.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/misc.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/misc.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/outdated.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/outdated.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/packaging.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/packaging.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/ui.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/ui.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/bazaar.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/bazaar.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/git.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/git.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/mercurial.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/mercurial.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/subversion.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/subversion.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/wheel.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/wheel.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/certifi/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/certifi/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/certifi/__main__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/certifi/__main__.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/certifi/cacert.pem" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/certifi/cacert.pem" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/__about__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/__about__.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/requirements.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/requirements.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/specifiers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/specifiers.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pkg_resources/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pkg_resources/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pkg_resources/py31compat.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pkg_resources/py31compat.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pyparsing.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pyparsing.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pytoml/parser.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pytoml/parser.py" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/__init__.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,15 +96,35 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Stream2_project$Stream2_project.coverage" NAME="Stream2_project Coverage Results" MODIFIED="1535388361885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Stream2_project$Stream2_project.coverage" NAME="Stream2_project Coverage Results" MODIFIED="1541700192967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="dashboard.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/dashboard.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="72" column="21" lean-forward="false" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Stream2_project.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Stream2_project.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -39,11 +132,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+            <state relative-caret-position="90">
+              <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="runtime.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/runtime.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -60,28 +173,39 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>all</find>
+      <find>April 20, 2018</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/static/lib/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/static/lib/js/bootstrap.min.js" />
         <option value="$PROJECT_DIR$/static/lib/js/intro.js" />
         <option value="$PROJECT_DIR$/static/lib/js/crossfilter.js" />
-        <option value="$PROJECT_DIR$/static/js/graph.js" />
-        <option value="$PROJECT_DIR$/static/lib/css/dc.css" />
-        <option value="$PROJECT_DIR$/static/lib/css/keen-dashboards.css" />
         <option value="$PROJECT_DIR$/static/lib/js/d3.js" />
         <option value="$PROJECT_DIR$/static/lib/js/dc.js" />
-        <option value="$PROJECT_DIR$/static/lib/js/jquery.min.js" />
-        <option value="$PROJECT_DIR$/static/lib/js/keen.min.js" />
+        <option value="$PROJECT_DIR$/static/js/graph.js" />
+        <option value="$PROJECT_DIR$/static/lib/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/static/lib/js/bootstrap.min.js" />
+        <option value="$PROJECT_DIR$/static/lib/css/keen-dashboards.css" />
+        <option value="$PROJECT_DIR$/static/js/barchart.js" />
+        <option value="$PROJECT_DIR$/static/lib/css/dc.css" />
         <option value="$PROJECT_DIR$/static/lib/js/queue.js" />
-        <option value="$PROJECT_DIR$/Stream2_project.py" />
-        <option value="$PROJECT_DIR$/static/css/custom.css" />
+        <option value="$PROJECT_DIR$/static/lib/js/jquery.min.js" />
         <option value="$PROJECT_DIR$/static/lib/css/introjs.css" />
+        <option value="$PROJECT_DIR$/static/lib/js/keen.min.js" />
+        <option value="$PROJECT_DIR$/static/css/custom.css" />
+        <option value="$PROJECT_DIR$/static/js/dashboard.js" />
         <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/venv/requirements.txt" />
+        <option value="$PROJECT_DIR$/Stream2_project.py" />
+        <option value="$PROJECT_DIR$/runtime.txt" />
       </list>
     </option>
   </component>
@@ -91,10 +215,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1024" />
-    <option name="height" value="554" />
+    <option name="height" value="575" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -112,6 +236,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,12 +286,16 @@
               <item name="Stream2_project" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Stream2_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stream2_project" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,6 +303,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/lib/js" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -193,8 +329,10 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="" value="" />
+        <env name="FLASK_ENV" value="development" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -249,32 +387,56 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1024" height="554" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1024" height="575" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5040733" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280318" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24032587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20208333" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32916668" sideWeight="0.49592668" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2311609" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995633" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29025844" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987553" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2027833" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23242188" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29025844" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -314,25 +476,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="added bootstrap" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/static/lib/js/dc.js</url>
+          <line>1093</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="18" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Stream2_project.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -340,25 +503,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/lib/css/introjs.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/lib/css/introjs.css" />
     <entry file="file://$PROJECT_DIR$/static/lib/css/keen-dashboards.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1005">
           <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -366,7 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141975">
           <caret line="9465" column="4" lean-forward="false" selection-start-line="9465" selection-start-column="4" selection-end-line="9465" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -374,7 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -382,9 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -392,7 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -400,7 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -408,9 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -418,9 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -428,7 +567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -436,7 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -444,9 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -454,7 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -462,9 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -472,7 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -480,7 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -488,9 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -498,7 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -506,9 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -516,7 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -524,9 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -534,7 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -542,142 +658,161 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/graph.js" />
+    <entry file="file://$PROJECT_DIR$/static/lib/js/d3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141975">
+          <caret line="9465" column="4" lean-forward="false" selection-start-line="9465" selection-start-column="4" selection-end-line="9465" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/athlete_events.csv" />
+    <entry file="file://$PROJECT_DIR$/static/lib/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="109290" lean-forward="false" selection-start-line="5" selection-start-column="109290" selection-end-line="5" selection-end-column="109290" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/lib/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <caret line="5" column="31650" lean-forward="false" selection-start-line="5" selection-start-column="31650" selection-end-line="5" selection-end-column="31650" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/lib/css/bootstrap.min.css">
+    <entry file="file://$PROJECT_DIR$/static/js/barchart.js" />
+    <entry file="file://$PROJECT_DIR$/static/lib/js/queue.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/graph.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1965">
-          <caret line="131" column="1" lean-forward="false" selection-start-line="131" selection-start-column="1" selection-end-line="131" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/lib/js/crossfilter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20745">
-          <caret line="1383" column="0" lean-forward="true" selection-start-line="1383" selection-start-column="0" selection-end-line="1383" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/lib/css/dc.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3690">
-          <caret line="246" column="0" lean-forward="true" selection-start-line="246" selection-start-column="0" selection-end-line="246" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/lib/css/keen-dashboards.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/lib/js/dc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134141">
-          <caret line="8948" column="4" lean-forward="false" selection-start-line="8948" selection-start-column="4" selection-end-line="8948" selection-end-column="4" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="368">
+          <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/lib/js/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/lib/js/keen.min.js">
+    <entry file="file://$PROJECT_DIR$/venv/requirements.tx" />
+    <entry file="file://$PROJECT_DIR$/static/lib/js/crossfilter.js" />
+    <entry file="file://$PROJECT_DIR$/static/lib/css/introjs.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="9863" lean-forward="false" selection-start-line="1" selection-start-column="9863" selection-end-line="1" selection-end-column="9863" />
-          <folding />
+        <state relative-caret-position="6795">
+          <caret line="453" column="0" lean-forward="true" selection-start-line="453" selection-start-column="0" selection-end-line="453" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/lib/js/queue.js">
+    <entry file="file://$PROJECT_DIR$/static/lib/css/keen-dashboards.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-285">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/lib/js/intro.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25275">
+        <state relative-caret-position="23099">
           <caret line="1685" column="0" lean-forward="true" selection-start-line="1685" selection-start-column="0" selection-end-line="1685" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/lib/css/dc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="246" column="0" lean-forward="true" selection-start-line="246" selection-start-column="0" selection-end-line="246" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/lib/js/dc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="8948" column="4" lean-forward="false" selection-start-line="8948" selection-start-column="4" selection-end-line="8948" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/lib/css/introjs.css">
+    <entry file="file://$PROJECT_DIR$/Google.csv" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5457">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="316">
+          <caret line="2308" column="0" lean-forward="false" selection-start-line="2308" selection-start-column="0" selection-end-line="2308" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/lib/js/keen.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76020">
+          <caret line="15" column="4035" lean-forward="false" selection-start-line="15" selection-start-column="4035" selection-end-line="15" selection-end-column="4035" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/googleplaystore.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148">
+          <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Stream2_project.py">
+    <entry file="file://$PROJECT_DIR$/static/js/dashboard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/lib/js/d3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141975">
-          <caret line="9465" column="4" lean-forward="false" selection-start-line="9465" selection-start-column="4" selection-end-line="9465" selection-end-column="4" />
+        <state relative-caret-position="570">
+          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        <state relative-caret-position="250">
+          <caret line="72" column="21" lean-forward="false" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stream2_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtime.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
       </provider>
