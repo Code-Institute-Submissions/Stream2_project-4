@@ -2,337 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="386217c3-d682-4432-abca-93e0e0343c30" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Procfile.windows" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/gunicorn_django" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.11.1.dist-info/DESCRIPTION.rst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.11.1.dist-info/METADATA" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.11.1.dist-info/RECORD" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.11.1.dist-info/WHEEL" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.11.1.dist-info/entry_points.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.11.1.dist-info/metadata.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.8.dist-info/DESCRIPTION.rst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.8.dist-info/METADATA" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.8.dist-info/RECORD" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.8.dist-info/WHEEL" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.8.dist-info/metadata.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-0.23.dist-info/METADATA" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-0.23.dist-info/RECORD" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.11.10.dist-info/DESCRIPTION.rst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.11.10.dist-info/METADATA" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.11.10.dist-info/RECORD" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.11.10.dist-info/metadata.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click-6.6.dist-info/METADATA" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click-6.6.dist-info/RECORD" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click-6.6.dist-info/metadata.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/ext/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/exthook.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/json.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn-19.6.0.dist-info/DESCRIPTION.rst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn-19.6.0.dist-info/METADATA" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn-19.6.0.dist-info/RECORD" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn-19.6.0.dist-info/WHEEL" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn-19.6.0.dist-info/entry_points.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn-19.6.0.dist-info/metadata.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/app/django_wsgi.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/app/djangoapp.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/management/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/management/commands/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/management/commands/run_gunicorn.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/workers/async.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/_stringdefs.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/markupsafe/tests.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo-3.2.2.dist-info/DESCRIPTION.rst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo-3.2.2.dist-info/METADATA" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo-3.2.2.dist-info/RECORD" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo-3.2.2.dist-info/WHEEL" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo-3.2.2.dist-info/metadata.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.24.0.dist-info/DESCRIPTION.rst" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.24.0.dist-info/METADATA" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.24.0.dist-info/RECORD" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.24.0.dist-info/RECORD.jws" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.24.0.dist-info/WHEEL" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.24.0.dist-info/entry_points.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.24.0.dist-info/metadata.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/decorator.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/eggnames.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/test/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/test/complex-dist/complexdist/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/test/complex-dist/setup.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/test/headers.dist/header.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/test/headers.dist/headersdist.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/test/headers.dist/setup.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/test/pydist-schema.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/test/simple.dist/setup.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/test/simple.dist/simpledist/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/test/test-1.0-py2.py3-none-win32.whl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/test/test_basic.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/test/test_install.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/test/test_keys.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/test/test_paths.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/test/test_ranking.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/test/test_signatures.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/test/test_tagopt.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/test/test_tool.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/test/test_wheelfile.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Stream2_project.py" afterPath="$PROJECT_DIR$/Stream2_project.py" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-1.0.2.dist-info/INSTALLER" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.11.1.dist-info/INSTALLER" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-1.0.2.dist-info/LICENSE.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-1.0.2.dist-info/METADATA" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-1.0.2.dist-info/RECORD" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-1.0.2.dist-info/WHEEL" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-1.0.2.dist-info/entry_points.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-1.0.2.dist-info/top_level.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Flask-0.11.1.dist-info/top_level.txt" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.10.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.10.dist-info/INSTALLER" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.8.dist-info/INSTALLER" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.10.dist-info/LICENSE.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.10.dist-info/METADATA" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.10.dist-info/RECORD" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.10.dist-info/WHEEL" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.10.dist-info/entry_points.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.8.dist-info/entry_points.txt" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.10.dist-info/metadata.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.10.dist-info/top_level.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Jinja2-2.8.dist-info/top_level.txt" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-1.0.dist-info/INSTALLER" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-0.23.dist-info/INSTALLER" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-1.0.dist-info/LICENSE.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-1.0.dist-info/METADATA" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-1.0.dist-info/RECORD" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-1.0.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-0.23.dist-info/WHEEL" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-1.0.dist-info/top_level.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/MarkupSafe-0.23.dist-info/top_level.txt" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.14.1.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.14.1.dist-info/INSTALLER" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.11.10.dist-info/INSTALLER" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.14.1.dist-info/LICENSE.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.14.1.dist-info/METADATA" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.14.1.dist-info/RECORD" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.14.1.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.11.10.dist-info/WHEEL" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.14.1.dist-info/metadata.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.14.1.dist-info/top_level.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/Werkzeug-0.11.10.dist-info/top_level.txt" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/_cbson.so" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/_cbson.so" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/binary.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/binary.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/code.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/code.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/codec_options.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/codec_options.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/decimal128.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/errors.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/errors.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/json_util.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/json_util.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/max_key.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/max_key.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/min_key.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/min_key.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/objectid.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/objectid.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/py3compat.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/py3compat.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/raw_bson.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/raw_bson.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/regex.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/regex.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/son.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/bson/son.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click-6.7.dist-info/DESCRIPTION.rst" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click-6.6.dist-info/DESCRIPTION.rst" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click-6.7.dist-info/INSTALLER" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click-6.6.dist-info/INSTALLER" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click-6.7.dist-info/METADATA" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click-6.7.dist-info/RECORD" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click-6.7.dist-info/WHEEL" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click-6.6.dist-info/WHEEL" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click-6.7.dist-info/metadata.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click-6.7.dist-info/top_level.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click-6.6.dist-info/top_level.txt" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click/_bashcomplete.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click/_bashcomplete.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click/_compat.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click/_compat.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click/_termui_impl.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click/_termui_impl.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click/_unicodefun.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click/_unicodefun.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click/core.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click/core.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click/testing.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/click/testing.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/__main__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/__main__.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/_compat.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/_compat.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/app.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/app.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/blueprints.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/blueprints.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/cli.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/cli.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/config.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/config.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/ctx.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/ctx.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/debughelpers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/debughelpers.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/globals.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/globals.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/helpers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/helpers.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/json/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/json/tag.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/logging.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/logging.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/sessions.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/sessions.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/signals.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/signals.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/templating.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/templating.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testing.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/testing.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/views.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/views.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/wrappers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/flask/wrappers.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gridfs/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gridfs/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gridfs/grid_file.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gridfs/grid_file.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn-19.9.0.dist-info/INSTALLER" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn-19.6.0.dist-info/INSTALLER" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn-19.9.0.dist-info/LICENSE.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn-19.9.0.dist-info/METADATA" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn-19.9.0.dist-info/RECORD" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn-19.9.0.dist-info/WHEEL" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn-19.9.0.dist-info/entry_points.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn-19.9.0.dist-info/top_level.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn-19.6.0.dist-info/top_level.txt" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/_compat.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/_compat.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/app/base.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/app/base.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/app/pasterapp.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/app/pasterapp.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/app/wsgiapp.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/app/wsgiapp.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/arbiter.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/arbiter.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/config.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/config.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/debug.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/debug.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/errors.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/errors.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/glogging.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/glogging.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/http/_sendfile.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/http/_sendfile.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/http/body.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/http/body.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/http/errors.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/http/errors.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/http/message.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/http/message.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/http/unreader.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/http/unreader.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/http/wsgi.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/http/wsgi.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/instrument/statsd.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/instrument/statsd.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/pidfile.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/pidfile.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/reloader.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/reloader.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/sock.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/sock.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/systemd.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/util.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/util.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/workers/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/workers/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/workers/_gaiohttp.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/workers/_gaiohttp.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/workers/base.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/workers/base.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/workers/base_async.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/workers/gaiohttp.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/workers/gaiohttp.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/workers/geventlet.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/workers/geventlet.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/workers/ggevent.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/workers/ggevent.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/workers/gthread.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/workers/gthread.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/workers/gtornado.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/gunicorn/workers/gtornado.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/_compat.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/_compat.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/_identifier.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/asyncfilters.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/asyncsupport.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/bccache.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/bccache.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/compiler.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/compiler.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/constants.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/constants.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/debug.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/debug.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/defaults.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/defaults.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/environment.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/environment.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/exceptions.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/exceptions.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/ext.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/ext.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/filters.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/filters.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/idtracking.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/lexer.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/lexer.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/loaders.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/loaders.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/meta.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/meta.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/nativetypes.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/nodes.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/nodes.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/optimizer.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/optimizer.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/parser.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/parser.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/runtime.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/runtime.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/sandbox.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/sandbox.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/tests.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/tests.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/utils.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/utils.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/visitor.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/jinja2/visitor.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/markupsafe/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/markupsafe/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/markupsafe/_speedups.c" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/markupsafe/_speedups.c" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/markupsafe/_speedups.so" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/markupsafe/_speedups.so" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo-3.7.1.dist-info/INSTALLER" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo-3.2.2.dist-info/INSTALLER" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo-3.7.1.dist-info/METADATA" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo-3.7.1.dist-info/RECORD" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo-3.7.1.dist-info/WHEEL" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo-3.7.1.dist-info/top_level.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo-3.2.2.dist-info/top_level.txt" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/_cmessage.so" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/_cmessage.so" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/auth.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/auth.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/bulk.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/bulk.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/change_stream.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/client_options.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/client_options.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/client_session.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/collation.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/collection.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/collection.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/command_cursor.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/command_cursor.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/common.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/common.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/compression_support.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/cursor.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/cursor.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/cursor_manager.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/cursor_manager.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/database.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/database.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/driver_info.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/errors.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/errors.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/helpers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/helpers.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/ismaster.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/ismaster.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/max_staleness_selectors.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/message.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/message.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/mongo_client.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/mongo_client.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/monitor.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/monitor.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/monitoring.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/monitoring.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/monotonic.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/monotonic.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/network.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/network.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/operations.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/operations.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/periodic_executor.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/periodic_executor.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/pool.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/pool.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/read_preferences.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/read_preferences.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/response.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/response.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/results.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/results.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/saslprep.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/server.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/server.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/server_description.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/server_description.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/server_selectors.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/server_selectors.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/settings.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/settings.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/son_manipulator.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/son_manipulator.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/ssl_context.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/ssl_context.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/ssl_match_hostname.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/ssl_match_hostname.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/ssl_support.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/ssl_support.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/topology.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/topology.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/topology_description.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/topology_description.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/uri_parser.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/uri_parser.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/write_concern.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pymongo/write_concern.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/_internal.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/_internal.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/_reloader.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/_reloader.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/atom.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/atom.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/cache.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/cache.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/fixers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/fixers.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/iterio.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/iterio.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/lint.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/lint.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/securecookie.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/securecookie.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/sessions.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/sessions.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/wrappers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/contrib/wrappers.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/datastructures.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/datastructures.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/console.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/console.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/repr.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/repr.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/shared/debugger.js" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/shared/debugger.js" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/shared/style.css" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/shared/style.css" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/tbtools.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/debug/tbtools.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/exceptions.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/exceptions.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/formparser.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/formparser.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/http.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/http.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/local.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/local.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/routing.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/routing.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/security.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/security.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/serving.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/serving.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/test.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/test.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/urls.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/urls.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/useragents.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/useragents.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/utils.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/utils.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/websocket.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/wrappers.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/wrappers.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/wsgi.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/werkzeug/wsgi.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/INSTALLER" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.24.0.dist-info/INSTALLER" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/LICENSE.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.24.0.dist-info/LICENSE.txt" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/METADATA" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/RECORD" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/WHEEL" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/entry_points.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/top_level.txt" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.24.0.dist-info/top_level.txt" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/__main__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/__main__.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/archive.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/archive.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/bdist_wheel.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/bdist_wheel.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/egg2wheel.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/egg2wheel.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/install.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/install.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/metadata.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/metadata.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/paths.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/paths.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/pep425tags.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/pep425tags.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/pkginfo.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/pkginfo.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/signatures/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/signatures/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/signatures/djbec.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/signatures/djbec.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/signatures/ed25519py.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/signatures/ed25519py.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/signatures/keys.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/signatures/keys.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/tool/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/tool/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/util.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/util.py" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/wininst2wheel.py" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/wininst2wheel.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -342,11 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Stream2_project$Stream2_project.coverage" NAME="Stream2_project Coverage Results" MODIFIED="1541772013196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Stream2_project$Stream2_project.coverage" NAME="Stream2_project Coverage Results" MODIFIED="1543676360220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Stream2_project.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Stream2_project.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Stream2_project.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -361,18 +32,18 @@
       <file leaf-file-name="dashboard.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/js/dashboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
+            <state relative-caret-position="531">
               <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="72" column="21" lean-forward="false" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
+            <state relative-caret-position="180">
+              <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -382,17 +53,17 @@
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
+              <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile.windows" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Procfile.windows">
+      <file leaf-file-name="runtime.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/runtime.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -455,7 +126,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1016" />
     <option name="height" value="575" />
@@ -476,8 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -488,12 +157,56 @@
             <path>
               <item name="Stream2_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Stream2_project" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stream2_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stream2_project" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stream2_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stream2_project" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stream2_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stream2_project" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stream2_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stream2_project" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stream2_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stream2_project" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stream2_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stream2_project" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stream2_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stream2_project" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -589,7 +302,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1016" height="575" extended-state="0" />
+    <frame x="0" y="23" width="1016" height="573" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -597,9 +310,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.51221997" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280318" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20208333" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32916668" sideWeight="0.48778003" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23613963" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20083682" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32845187" sideWeight="0.48778003" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25564682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892057" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -925,48 +638,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runtime.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/dashboard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="72" column="21" lean-forward="false" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile.windows">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -978,6 +653,46 @@
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile.windows">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="30" lean-forward="true" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtime.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
