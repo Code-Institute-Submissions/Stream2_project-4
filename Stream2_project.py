@@ -7,7 +7,7 @@ import os
 
 app = Flask(__name__)
 
-COLLECTION_NAME = 'project'
+COLLECTION_NAME = 'project2'
 MONGO_URI = os.getenv('MONGODB_URI')
 DBS_NAME = os.getenv('MONGO_DB_NAME')
 
