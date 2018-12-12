@@ -26,7 +26,7 @@ def project():
 
     # A constant that defines the record fields that we wish to retrieve.
     FIELDS = {
-        '_id': False, 'Rating': False, 'Android Ver': False, 'Type': False
+        '_id': False, 'Rating': False, 'Android Ver': False, 'Type': False, 'Current Ver': False
     }
 
     # Open a connection to MongoDB using a with statement such that the
