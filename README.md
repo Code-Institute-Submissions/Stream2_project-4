@@ -14,9 +14,9 @@ Google Play Store Apps is a simple interactive data driven website. The function
 
 * Python
 * D3 & DC dimensional charting
-* Javascript
 * HTML
 * CSS
+* Javascript
 * Bootstrap
 
 ###### Data Platforms
@@ -24,3 +24,6 @@ Google Play Store Apps is a simple interactive data driven website. The function
 * HEROKU
 * MONGO DB
 
+###### Development
+
+###### Customer
